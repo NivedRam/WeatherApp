@@ -1,0 +1,8 @@
+city name
+temp
+weather type
+main
+humidity
+wind speed
+sunrise
+sunset
